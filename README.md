@@ -14,3 +14,7 @@ http://deeplearning.net/tutorial/gettingstarted.html
 https://www.tensorflow.org/get_started/mnist/beginners
 
 http://www.datatau.com/
+
+### Statistics and Probability
+
+https://www.khanacademy.org/math/statistics-probability
