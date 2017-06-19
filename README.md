@@ -12,3 +12,5 @@ http://cs.stanford.edu/people/karpathy/convnetjs/docs.html
 http://deeplearning.net/tutorial/gettingstarted.html
 
 https://www.tensorflow.org/get_started/mnist/beginners
+
+http://www.datatau.com/
