@@ -18,3 +18,6 @@ http://www.datatau.com/
 ### Statistics and Probability
 
 https://www.khanacademy.org/math/statistics-probability
+
+### Python important coding
+df.groupby(['documents'],sort=False)['chapter'].max().reset_index()
