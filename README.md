@@ -21,3 +21,6 @@ https://www.khanacademy.org/math/statistics-probability
 
 ### Python important coding
 df.groupby(['documents'],sort=False)['chapter'].max().reset_index()
+
+### R important twitter text mining
+https://sites.google.com/site/miningtwitter
