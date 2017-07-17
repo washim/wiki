@@ -24,3 +24,6 @@ df.groupby(['documents'],sort=False)['chapter'].max().reset_index()
 
 ### R important twitter text mining
 https://sites.google.com/site/miningtwitter
+
+### Karnataka water level report
+http://www.toenre.com/downloads.html
