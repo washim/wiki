@@ -27,3 +27,4 @@ https://sites.google.com/site/miningtwitter
 
 ### Karnataka water level report
 http://www.toenre.com/downloads.html
+http://www.cgwb.gov.in/Regions/GW-year-Books/GWYB-2014-15/GWYB%2014-15%20Karnataka.pdf
