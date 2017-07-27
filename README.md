@@ -30,3 +30,6 @@ http://rajapradhan.com/blogs/d3-js-v4-essentials/data-formats-and-data-binding/
 
 ### Check available ports in ubuntu  
 netstat -tulpn | grep LISTEN
+
+### Python Flask embeding matplotlib  
+http://hplgit.github.io/web4sciapps/doc/pub/._web4sa_flask013.html
