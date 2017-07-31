@@ -23,7 +23,8 @@ http://www.toenre.com/downloads.html
 http://www.cgwb.gov.in/Regions/GW-year-Books/GWYB-2014-15/GWYB%2014-15%20Karnataka.pdf
 http://www.cgwb.gov.in/Regions/GW-year-Books/GWYB-2015-16/GWYB%20SWR%202015-16.pdf
 http://www.cgwb.gov.in/Ann-Reports.html
-http://cgwb.gov.in/AQM/Karnataka.pdf
+http://cgwb.gov.in/AQM/Karnataka.pdf  
+http://des.kar.nic.in/docs/Projected%20Population%202012-2021.pdf
 
 ### D3  
 http://rajapradhan.com/blogs/d3-js-v4-essentials/data-formats-and-data-binding/
