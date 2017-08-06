@@ -24,7 +24,8 @@ http://www.cgwb.gov.in/Regions/GW-year-Books/GWYB-2014-15/GWYB%2014-15%20Karnata
 http://www.cgwb.gov.in/Regions/GW-year-Books/GWYB-2015-16/GWYB%20SWR%202015-16.pdf
 http://www.cgwb.gov.in/Ann-Reports.html
 http://cgwb.gov.in/AQM/Karnataka.pdf  
-http://des.kar.nic.in/docs/Projected%20Population%202012-2021.pdf
+http://des.kar.nic.in/docs/Projected%20Population%202012-2021.pdf  
+http://nptel.ac.in/courses/105104102/Lecture%202.htm
 
 ### D3  
 http://rajapradhan.com/blogs/d3-js-v4-essentials/data-formats-and-data-binding/
