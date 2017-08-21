@@ -34,4 +34,5 @@ http://rajapradhan.com/blogs/d3-js-v4-essentials/data-formats-and-data-binding/
 netstat -tulpn | grep LISTEN
 
 ### Python Flask embeding matplotlib  
-http://hplgit.github.io/web4sciapps/doc/pub/._web4sa_flask013.html
+http://hplgit.github.io/web4sciapps/doc/pub/._web4sa_flask013.html  
+https://www.datacamp.com/community/tutorials/deep-learning-python#gs.OHATc9Y
