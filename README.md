@@ -39,3 +39,6 @@ http://hplgit.github.io/web4sciapps/doc/pub/._web4sa_flask013.html
 
 ### Principal Component Analysis  
 http://www.di.fc.ul.pt/~jpn/r/pca/pca.html
+
+### Statistical Test
+http://r-statistics.co/Statistical-Tests-in-R.html
