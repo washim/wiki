@@ -7,7 +7,8 @@ https://rstudio-pubs-static.s3.amazonaws.com/265713_cbef910aee7642dc8b62996e38d2
 http://cs.stanford.edu/people/karpathy/convnetjs/docs.html  
 http://deeplearning.net/tutorial/gettingstarted.html  
 https://www.tensorflow.org/get_started/mnist/beginners  
-http://www.datatau.com/
+http://www.datatau.com/  
+https://www.datacamp.com/community/tutorials/deep-learning-python#gs.OHATc9Y
 
 ### Statistics and Probability  
 https://www.khanacademy.org/math/statistics-probability
@@ -34,5 +35,7 @@ http://rajapradhan.com/blogs/d3-js-v4-essentials/data-formats-and-data-binding/
 netstat -tulpn | grep LISTEN
 
 ### Python Flask embeding matplotlib  
-http://hplgit.github.io/web4sciapps/doc/pub/._web4sa_flask013.html  
-https://www.datacamp.com/community/tutorials/deep-learning-python#gs.OHATc9Y
+http://hplgit.github.io/web4sciapps/doc/pub/._web4sa_flask013.html
+
+### Principal Component Analysis  
+http://www.di.fc.ul.pt/~jpn/r/pca/pca.html
