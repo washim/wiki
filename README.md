@@ -43,3 +43,6 @@ http://www.di.fc.ul.pt/~jpn/r/pca/pca.html
 ### Statistical Test
 http://r-statistics.co/Statistical-Tests-in-R.html  
 http://www.statisticssolutions.com/directory-of-statistical-analyses/
+
+### Python windows scheduling
+https://blogs.esri.com/esri/arcgis/2013/07/30/scheduling-a-scrip
