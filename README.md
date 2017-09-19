@@ -46,3 +46,6 @@ http://www.statisticssolutions.com/directory-of-statistical-analyses/
 
 ### Python windows scheduling
 https://blogs.esri.com/esri/arcgis/2013/07/30/scheduling-a-scrip
+
+### Jquery and Angular4
+https://stackoverflow.com/questions/43934727/how-to-use-jquery-plugin-with-angular-4
