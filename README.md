@@ -30,6 +30,7 @@ http://nptel.ac.in/courses/105104102/Lecture%202.htm
 
 ### D3  
 http://rajapradhan.com/blogs/d3-js-v4-essentials/data-formats-and-data-binding/
+https://www.digitalocean.com/community/tutorials/how-to-make-a-bar-chart-with-javascript-and-the-d3-library
 
 ### Check available ports in ubuntu  
 netstat -tulpn | grep LISTEN
