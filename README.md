@@ -51,3 +51,4 @@ https://blogs.esri.com/esri/arcgis/2013/07/30/scheduling-a-scrip
 ### Jquery and Angular4
 https://stackoverflow.com/questions/43934727/how-to-use-jquery-plugin-with-angular-4
 https://codecraft.tv/courses/angular/http/http-with-promises/
+https://www.youtube.com/watch?v=gmIZhml6tQQ
