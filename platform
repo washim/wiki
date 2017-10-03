@@ -1,0 +1,12 @@
+#!/bin/sh
+
+#Design and written by Washim.Ahmed@inbcu.com to solve permission denied with key
+if [ -f ~/.ssh/$1 ];
+then
+  eval "$(ssh-agent -s)" &> /dev/null
+  ssh-add ~/.ssh/$1 &> /dev/null
+  shift
+  $@
+else
+  echo "Private Key $1 does not exist." >&2
+fi
