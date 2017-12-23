@@ -55,3 +55,6 @@ https://www.youtube.com/watch?v=gmIZhml6tQQ
 
 ### Backbonejs
 https://www.youtube.com/watch?v=FZSjvWtUxYk
+
+### Power Analysis
+http://www.statsoft.com/Textbook/Power-Analysis
