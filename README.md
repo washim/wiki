@@ -58,3 +58,6 @@ https://www.youtube.com/watch?v=FZSjvWtUxYk
 
 ### Power Analysis
 http://www.statsoft.com/Textbook/Power-Analysis
+
+### Sqlite and .NET
+https://www.mindstick.com/blog/611/creating-inserting-updating-and-deleting-in-sqlite
