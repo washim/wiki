@@ -61,3 +61,6 @@ http://www.statsoft.com/Textbook/Power-Analysis
 
 ### Sqlite and .NET
 https://www.mindstick.com/blog/611/creating-inserting-updating-and-deleting-in-sqlite
+
+### Magic
+https://www.facebook.com/BritainsGotTalent/videos/10156220398487456/
