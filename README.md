@@ -64,3 +64,6 @@ https://www.mindstick.com/blog/611/creating-inserting-updating-and-deleting-in-s
 
 ### Magic
 https://www.facebook.com/BritainsGotTalent/videos/10156220398487456/
+
+### Hadoop
+http://www.admintome.com/blog/installing-hadoop-on-ubuntu-17-10/
