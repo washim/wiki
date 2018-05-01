@@ -66,4 +66,5 @@ https://www.mindstick.com/blog/611/creating-inserting-updating-and-deleting-in-s
 https://www.facebook.com/BritainsGotTalent/videos/10156220398487456/
 
 ### Hadoop
+https://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-common/SingleCluster.html
 http://www.admintome.com/blog/installing-hadoop-on-ubuntu-17-10/
