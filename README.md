@@ -38,6 +38,9 @@ netstat -tulpn | grep LISTEN
 ### Python Flask embeding matplotlib  
 http://hplgit.github.io/web4sciapps/doc/pub/._web4sa_flask013.html
 
+### Jupyter notebook and Pyspark
+export PYSPARK_DRIVER_PYTHON=jupyter
+export PYSPARK_DRIVER_PYTHON_OPTS='notebook --no-browser --port=8888'
 ### Principal Component Analysis  
 http://www.di.fc.ul.pt/~jpn/r/pca/pca.html
 
