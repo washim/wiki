@@ -74,4 +74,5 @@ http://www.admintome.com/blog/installing-hadoop-on-ubuntu-17-10/
 
 ### Jupyter notebook and pyspark
 export PYSPARK_DRIVER_PYTHON=jupyter
+
 export PYSPARK_DRIVER_PYTHON_OPTS='notebook --no-browser --port=8888'
