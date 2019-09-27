@@ -71,3 +71,7 @@ https://www.facebook.com/BritainsGotTalent/videos/10156220398487456/
 ### Hadoop
 https://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-common/SingleCluster.html
 http://www.admintome.com/blog/installing-hadoop-on-ubuntu-17-10/
+
+### Jupyter notebook and pyspark
+export PYSPARK_DRIVER_PYTHON=jupyter
+export PYSPARK_DRIVER_PYTHON_OPTS='notebook --no-browser --port=8888'
