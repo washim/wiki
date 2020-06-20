@@ -116,9 +116,15 @@ https://medium.com/@hakibenita/how-to-turn-django-admin-into-a-lightweight-dashb
 </svg>
 
 ### Django : Transfer data from Sqlite to another database
+
 python manage.py dumpdata > db.json
+
 python manage.py migrate
+
 python manage.py shell
+
 from django.contrib.contenttypes.models import ContentType
+
 ContentType.objects.all().delete()
+
 python manage.py loaddata db.json
