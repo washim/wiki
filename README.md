@@ -114,3 +114,11 @@ https://medium.com/@hakibenita/how-to-turn-django-admin-into-a-lightweight-dashb
   <text style="cursor: move;" opacity="0.9" font-weight="normal" stroke="null" transform="matrix(1.821015468640938,0,0,1.734607962583891,-348.4765508621409,-133.20058123852996) " xml:space="preserve" text-anchor="start" font-family="'Trebuchet MS', Gadget, sans-serif" font-size="12" id="svg_6" y="89.934413" x="208.824114" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">QUAH2O</text>
  </g>
 </svg>
+
+### Django : Transfer data from Sqlite to another database
+python manage.py dumpdata > db.json
+python manage.py migrate
+python manage.py shell
+from django.contrib.contenttypes.models import ContentType
+ContentType.objects.all().delete()
+python manage.py loaddata db.json
