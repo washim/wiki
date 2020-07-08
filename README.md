@@ -128,3 +128,10 @@ from django.contrib.contenttypes.models import ContentType
 ContentType.objects.all().delete()
 
 python manage.py loaddata db.json
+
+### Django Pylint
+--load-plugins=pylint_django
+
+--disable=all
+
+--enable=F,E,unreachable,duplicate-key,unnecessary-semicolon,global-variable-not-assigned,unused-variable,binary-op-exception,bad-format-string,anomalous-backslash-in-string,bad-open-mode
