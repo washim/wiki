@@ -135,3 +135,6 @@ python manage.py loaddata db.json
 --disable=all
 
 --enable=F,E,unreachable,duplicate-key,unnecessary-semicolon,global-variable-not-assigned,unused-variable,binary-op-exception,bad-format-string,anomalous-backslash-in-string,bad-open-mode
+
+### Airflow installation Windows anaconda3
+conda install libpython m2w64-toolchain -c msys2
