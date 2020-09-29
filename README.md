@@ -138,3 +138,6 @@ python manage.py loaddata db.json
 
 ### Airflow installation Windows anaconda3
 conda install libpython m2w64-toolchain -c msys2
+
+### Graph Theory
+https://js.cytoscape.org/
