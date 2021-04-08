@@ -149,9 +149,8 @@ https://www.youtube.com/watch?v=7CV2IemAQJY
 
 ### ServerLess flask
 
-.. code-block:: python
-  
-  import sys
+```python
+import sys
 from urllib.parse import urlencode
 from io import StringIO
 from flask import Flask
@@ -226,3 +225,4 @@ class FlaskLambda(Flask):
             'headers': response.response_headers,
             'body': body
         }
+```
