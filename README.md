@@ -148,7 +148,7 @@ https://www.youtube.com/watch?v=7CV2IemAQJY
 ![image](https://user-images.githubusercontent.com/777568/113864193-3a29bf80-97c8-11eb-9cb0-4189ed8f518e.png)
 
 ### ServerLess flask
-
+serverless.py
 ```python
 import sys
 from urllib.parse import urlencode
@@ -198,7 +198,7 @@ def make_environ(event):
     return environ
 
 
-class LambdaResponse(object):
+class ServerlessResponse(object):
     def __init__(self):
         self.status = None
         self.response_headers = None
@@ -208,12 +208,12 @@ class LambdaResponse(object):
         self.response_headers = dict(response_headers)
 
 
-class FlaskLambda(Flask):
+class ServerLess(Flask):
     def __call__(self, event, context):
         if 'httpMethod' not in event:
-            return super(FlaskLambda, self).__call__(event, context)
+            return super(ServerLess, self).__call__(event, context)
 
-        response = LambdaResponse()
+        response = ServerlessResponse()
 
         body = next(self.wsgi_app(
             make_environ(event),
@@ -225,4 +225,20 @@ class FlaskLambda(Flask):
             'headers': response.response_headers,
             'body': body
         }
+```
+
+app.py
+```python
+from serverless import ServerLess
+from Flask import request
+import json
+
+app = ServerLess(__name__)
+
+
+@app.route('/index', methods=['GET', 'POST'])
+def index():
+    return (
+        json.dumps({'message': 'Welcome to serverless flask'}), 200, {'Content-Type': 'application/json'}
+    )
 ```
