@@ -77,6 +77,9 @@ export PYSPARK_DRIVER_PYTHON=jupyter
 
 export PYSPARK_DRIVER_PYTHON_OPTS='notebook --no-browser --port=8888'
 
+### Yahoo finance stock api
+https://query1.finance.yahoo.com/v8/finance/chart/ITC.NS?formatted=true&interval=1d&range=3mo
+
 ### DJANGO customized page
 https://medium.com/@hakibenita/how-to-turn-django-admin-into-a-lightweight-dashboard-a0e0bbf609ad
 
