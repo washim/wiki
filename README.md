@@ -245,3 +245,10 @@ def index():
         json.dumps({'message': 'Welcome to serverless flask'}), 200, {'Content-Type': 'application/json'}
     )
 ```
+### NSE Nifty Symbols
+
+https://archives.nseindia.com/content/indices/ind_nifty50list.csv
+
+https://archives.nseindia.com/content/indices/ind_nifty100list.csv
+
+https://archives.nseindia.com/content/indices/ind_nifty200list.csv
