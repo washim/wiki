@@ -248,7 +248,5 @@ def index():
 ### NSE Nifty Symbols
 
 https://archives.nseindia.com/content/indices/ind_nifty50list.csv
-
 https://archives.nseindia.com/content/indices/ind_nifty100list.csv
-
 https://archives.nseindia.com/content/indices/ind_nifty200list.csv
