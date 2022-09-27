@@ -1,5 +1,5 @@
 ### Shell Script execution from Jenkins
-```json
+```python
 script {
     image_id = sh(script: "docker images -q sukhi", returnStdout: true).trim()
     if(image_id.isEmpty()) {
